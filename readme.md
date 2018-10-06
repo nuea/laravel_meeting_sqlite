@@ -41,6 +41,7 @@ Open **.env** file setup database
     DB_PASSWORD=secret
     
 to
+
     DB_CONNECTION=sqlite
     DB_HOST=127.0.0.1
     DB_PORT=3306
